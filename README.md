@@ -25,15 +25,12 @@ This project uses the `pytrends` library, which is an unofficial Python API for 
    - **Saving Data**: The fetched data is saved into a CSV file (`fashion_trends_nc_charlotte.csv`).
    - **Data Visualization**: A line plot is generated using `matplotlib` to visualize the popularity of each brand over the past five years.
 
-## Files in the Repository
-
-- `fetch_trends.py`: The Python script that fetches Google Trends data for the selected brands in North Carolina and Charlotte.
-- `fashion_trends_nc_charlotte.csv`: The CSV file that contains the Google Trends data for each brand over the past five years.
-- `fashion_trends_nc_charlotte.png`: A line plot image that visualizes the trends for all five brands over time.
   
 ## Data Analysis
 
 The data fetched from Google Trends is normalized between 0 and 100, where 100 represents the peak search interest for a specific brand during the timeframe. This analysis helps to compare the relative interest of consumers in North Carolina and Charlotte for these five luxury fashion brands.
+
+![Alt Text](./fashion_trends_nc_charlotte.png)
 
 ### Insights:
 - Track how interest in each brand has changed over the past five years.
