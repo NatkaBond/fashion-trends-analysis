@@ -40,5 +40,10 @@ The data fetched from Google Trends is normalized between 0 and 100, where 100 r
 
 ## Conclusion
 
+1. Gucci Dominates Popularity: Gucci has consistently had the highest popularity index compared to the other brands, with notable spikes, especially around 2021 and early 2022. This suggests Gucci had significant moments of increased interest, possibly due to marketing campaigns, product launches, or other brand events.
+2. Louis Vuitton Shows Steady Interest: Louis Vuitton maintains a steady level of popularity over time, although it remains consistently below Gucci. This trend indicates sustained interest in the brand without significant fluctuations.
+3. Other Brands Have Low and Steady Interest: Burberry, Yves Saint Laurent, and Alexander McQueen show much lower popularity indices and remain relatively flat throughout the observed period. This suggests these brands are less sought after in these regions or possibly cater to niche markets.
+4. Trend Decline After Peaks: After the peak around 2021-2022, Gucci's popularity gradually declined, settling closer to the popularity levels of Louis Vuitton. This might indicate a cooling interest or stabilization following a period of high demand.
+
 This project provides a clear and effective way to analyze and visualize Google Trends data for luxury fashion brands. It helps in understanding consumer interest in different regions, which can be useful for fashion brands, marketers, and analysts.
 
